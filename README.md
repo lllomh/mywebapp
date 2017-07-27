@@ -8,3 +8,5 @@ Appcan  phonegap 打包工具
 
 intelXDK   设计开发一体化工具
 
+selenium 前端测试化自动工具
+
